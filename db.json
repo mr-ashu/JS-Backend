@@ -32,13 +32,14 @@
   ],
   "signup": [
     {
-      
+      "name":"ashutosh",
+      "email":"a@g.com",
+      "password":"12345",
+      "conform_password":"12345"
     }
   ],
   "task": [
-    {
-      
-    }
+    
   ]
  
  
